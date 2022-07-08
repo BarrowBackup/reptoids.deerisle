@@ -1,0 +1,6 @@
+## Files to ignore for DayZ MPmissions
+
+# Binary files
+*.bin
+*.map
+storage_*/

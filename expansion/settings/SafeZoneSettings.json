@@ -1,0 +1,12 @@
+{
+    "m_Version": 6,
+    "Enabled": 1,
+    "FrameRateCheckSafeZoneInMs": 0,
+    "CircleZones": [],
+    "PolygonZones": [],
+    "DisableVehicleDamageInSafeZone": 1,
+    "EnableForceSZCleanup": 1,
+    "ItemLifetimeInSafeZone": 900.0,
+    "ForceSZCleanup_ExcludedItems": [],
+    "ActorsPerTick": 5
+}
