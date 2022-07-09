@@ -11,7 +11,13 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier4"/>
+        <value name="Tier6"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
     </type>
     <type name="YK_Mag_AK74_95Rnd">
         <nominal>4</nominal>
@@ -24,7 +30,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier4"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier13"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
     </type>
     <type name="YK_Mag_AK74_100Rnd">
         <nominal>4</nominal>
@@ -37,7 +47,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier4"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier13"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
     </type>
     <type name="YK_Mag_AK74_60Rnd">
         <nominal>4</nominal>
@@ -50,7 +64,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier4"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier13"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
     </type>
     <type name="YK_Mag_AK74_60Rnd_Black">
         <nominal>4</nominal>
@@ -63,7 +81,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier4"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier13"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
     </type>
     <type name="YK_Mag_CMAG_100Rnd">
         <nominal>5</nominal>
@@ -209,7 +231,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Police"/>
+        <usage name="Military"/>
+		<value name="Tier3"/>
+		<value name="Tier2"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
     </type>
     <type name="YK_Mag_MP5_50Rnd">
         <nominal>12</nominal>
@@ -222,8 +249,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
+        <value name="Tier9"/>
+        <value name="Tier11"/>
     </type>
     <type name="YK_Mag_MP5_100Rnd">
         <nominal>12</nominal>
@@ -236,8 +263,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
+        <value name="Tier9"/>
+        <value name="Tier11"/>
     </type>
     <type name="YK_Mag_VSS_40Rnd">
         <nominal>3</nominal>
@@ -250,7 +277,12 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier4"/>
+        <value name="Tier12"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier13"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
     </type>
     <type name="YK_Mag_VSS_40Rnd_Black">
         <nominal>3</nominal>
@@ -263,7 +295,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier4"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier13"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
     </type>
     <type name="YK_Mag_VSS_20Rnd">
         <nominal>3</nominal>
@@ -276,7 +312,12 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier4"/>
+        <value name="Tier6"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier13"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
     </type>
     <type name="YK_Mag_VSS_20Rnd_Black">
         <nominal>3</nominal>
@@ -289,7 +330,12 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier4"/>
+        <value name="Tier6"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier13"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
     </type>
     <type name="YK_Mag_VSS_40Rnd2">
         <nominal>3</nominal>
@@ -302,7 +348,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier4"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier13"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
     </type>
     <type name="YK_Mag_VSS_20Rnd2">
         <nominal>3</nominal>
@@ -315,6 +365,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier4"/>
+        <value name="Tier6"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier13"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
     </type>
 </types>

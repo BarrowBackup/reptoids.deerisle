@@ -37,16 +37,19 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	<ce folder="modxml">
 		<file name="expansion_types.xml" type="types" />
 		<file name="expansion_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="expansion_events.xml" type="events" />
 		<file name="cfgspawnabletypes_CJLoot.xml" type="spawnabletypes" />
 		<file name="cfgspawnabletypes_MassManyItem.xml" type="spawnabletypes" />
 		<file name="cfgspawnabletypes_mvs" type="spawnabletypes" />
-		<file name="expansion_events.xml" type="events" />
-		<file name="types_anwp.xml" type="types" />
+		<file name="cfgspawnabletypes_WE" type="spawnabletypes" />
 		<file name="cfgspawnabletypes_AMS.xml" type="spawnabletypes" />
+		<file name="cfgspawnabletypes_Morty.xml" type="spawnabletypes" />
+		<file name="cfgspawnabletypes_TacFlava.xml" type="spawnabletypes" />
+		<file name="cfgspawnabletypes_TacFlava2.xml" type="spawnabletypes" />
 		<file name="types_AMS.xml" type="types" />
 		<file name="types_addmag.xml" type="types" />
 		<file name="types_AdvScope.xml" type="types" />
-		<file name="BBP_types.xml" type="types" />
+		<file name="types_BBP.xml" type="types" />
 		<file name="types_CJLoot.xml" type="types" />
 		<file name="types_CloudMil.xml" type="types" />
 		<file name="types_codelock.xml" type="types" />
@@ -55,20 +58,28 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="types_mmgstorage1.xml" type="types" />
 		<file name="types_mmgstorage2.xml" type="types" />
 		<file name="types_mvs.xml" type="types" />
-		<file name="types_.xml" type="types" />
-		<file name="types_.xml" type="types" />
-		<file name="types_.xml" type="types" />
-		<file name="types_.xml" type="types" />
-		<file name="types_.xml" type="types" />
-		<file name="types_.xml" type="types" />
-		<file name="types_.xml" type="types" />
-		<file name="types_.xml" type="types" />
-		<file name="types_.xml" type="types" />
-		<file name="types_.xml" type="types" />
-		<file name="types_.xml" type="types" />
-		<file name="types_.xml" type="types" />
-		<file name="types_.xml" type="types" />
-		<file name="types_.xml" type="types" />
-		<file name="types_.xml" type="types" />
+		<file name="types_WE.xml" type="types" />
+		<file name="types_CJ187.xml" type="types" />
+		<file name="types_FarmPlus.xml" type="types" />
+		<file name="types_MassManyItem.xml" type="types" />
+		<file name="types_uncuepas.xml" type="types" />
+		<file name="types_MoreFood.xml" type="types" />
+		<file name="types_Morty.xml" type="types" />
+		<file name="types_muchdecos.xml" type="types" />
+		<file name="types_MuchStuffPack.xml" type="types" />
+		<file name="types_MuchStuffPack2.xml" type="types" />
+		<file name="types_Mung1.xml" type="types" />
+		<file name="types_Mung2.xml" type="types" />
+		<file name="types_Mung3.xml" type="types" />
+		<file name="types_Mung4.xml" type="types" />
+		<file name="types_Mung5.xml" type="types" />
+		<file name="types_Mung6.xml" type="types" />
+		<file name="types_RUSFormV.xml" type="types" />
+		<file name="types_TacFlava.xml" type="types" />
+		<file name="types_TacFlava2.xml" type="types" />
+		<file name="types_WindStride.xml" type="types" />
+		<file name="types_ZenLeftover.xml" type="types" />
+		<file name="types_Virus.xml" type="types" />
+		<file name="types_FishingZ.xml" type="types" />
 	</ce>
 </economycore>

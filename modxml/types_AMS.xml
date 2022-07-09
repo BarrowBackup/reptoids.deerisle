@@ -93,9 +93,6 @@
         <tag name="shelves"/>
         <usage name="Medic"/>
         <usage name="Military"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="AMS_Polaris">
         <nominal>20</nominal>
