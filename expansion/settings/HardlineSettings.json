@@ -27,9 +27,9 @@
     "LegendaryItemRequirement": 4000,
     "MythicItemRequirement": 5000,
     "ExoticItemRequirement": 10000,
-    "ShowHardlineHUD": 0,
+    "ShowHardlineHUD": 1,
     "UseItemRarity": 0,
-    "UseHumanity": 0,
+    "UseHumanity": 1,
     "ItemRarity": {
         "boarsteakmeat": 3,
         "booniehat_blue": 4,

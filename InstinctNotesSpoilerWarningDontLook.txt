@@ -1,0 +1,65 @@
+Starter Mil Loot (West/Unaligned)
+	<value name="Tier2"/>
+	<value name="Tier3"/>
+	<value name="Tier8"/>
+	
+Mil Loot West Old
+    <value name="Tier3"/>
+	<value name="Tier5"/>
+	<value name="Tier6"/>
+	<value name="Tier8"/>
+	
+Mil Loot Unaligned
+	<value name="Tier6"/>
+	<value name="Tier8"/>
+	<value name="Tier9"/>
+	<value name="Tier10"/>
+	<value name="Tier14"/>
+	
+Mil Loot Bloc Old
+	<value name="Tier1"/>
+	<value name="Tier6"/>
+	<value name="Tier8"/>
+	<value name="Tier12"/>
+	<value name="Tier17"/>
+	
+Mil Loot Postwar
+	<value name="Tier1"/>
+    <value name="Tier2"/>
+    <value name="Tier3"/>
+	<value name="Tier5"/>
+	<value name="Tier6"/>
+	<value name="Tier8"/>
+	
+Mil Loot West New
+	<value name="Tier7"/>
+	<value name="Tier9"/>
+	<value name="Tier10"/>
+	<value name="Tier11"/>
+	<value name="Tier14"/>
+	<value name="Tier15"/>
+	<value name="Tier18"/>
+	
+Mil Loot Bloc New
+	<value name="Tier6"/>
+	<value name="Tier9"/>
+	<value name="Tier10"/>
+	<value name="Tier12"/>
+	<value name="Tier14"/>
+	<value name="Tier16"/>
+	<value name="Tier17"/>
+	
+Mil Loot PMC
+	<value name="Tier7"/>
+	<value name="Tier9"/>
+	<value name="Tier10"/>
+	<value name="Tier11"/>
+	
+Mil Loot Experimental
+	<value name="Tier7"/>
+	<value name="Tier10"/>
+	<value name="Tier14"/>
+	<value name="Tier16"/>
+	
+types.xml bookmark: 
+	

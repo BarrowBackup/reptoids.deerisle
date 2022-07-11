@@ -12,7 +12,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="shelves"/>
-		<usage name="ContaminatedArea"/>
+		<usage name="Medic"/>
     </type>
 	<type name="Zen_Virus_AntiBodiesVial"> <!-- Cures the virus -->
         <nominal>1</nominal>
@@ -39,9 +39,6 @@
         <category name="tools"/>
         <tag name="shelves"/>
         <usage name="Medic"/>
-		<value name="Tier1"/>
-		<value name="Tier2"/>
-		<value name="Tier3"/>
     </type>
 	<type name="Zen_Virus_Cure_Microscope"> <!-- Cures the virus -->
         <nominal>12</nominal>
@@ -55,9 +52,6 @@
         <category name="tools"/>
         <tag name="shelves"/>
         <usage name="Medic"/>
-		<value name="Tier1"/>
-		<value name="Tier2"/>
-		<value name="Tier3"/>
     </type>
 	<type name="Syringe"> <!-- Cures the virus -->
         <nominal>18</nominal>
@@ -71,9 +65,6 @@
         <category name="tools"/>
         <tag name="shelves"/>
         <usage name="Medic"/>
-		<value name="Tier1"/>
-		<value name="Tier2"/>
-		<value name="Tier3"/>
     </type>
 	<type name="Zen_Virus_Injector"> <!-- Injects the virus -->
         <lifetime>14400</lifetime>
