@@ -1,3 +1,4 @@
+<spawnabletypes>
  	<type name="MVS_ChestRig_OD">
 		<attachments chance="1.00">
 			<item name="MVS_Magazine_Pouch_OD" chance="1.00" />
@@ -491,3 +492,4 @@
 			<item name="MVS_Altyn_Visor_Lifted_Black" chance="1.00" />
 		</attachments>
 	</type>
+</spawnabletypes>
