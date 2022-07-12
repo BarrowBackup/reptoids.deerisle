@@ -610,8 +610,6 @@
         <usage name="Town"/>
         <usage name="Village"/>
         <usage name="Hunting"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
     </type>
     <type name="diana_m27_mung">
         <nominal>30</nominal>
@@ -627,8 +625,6 @@
         <usage name="Town"/>
         <usage name="Village"/>
         <usage name="Hunting"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
     </type>
     <type name="bowieknife_mung">
         <nominal>10</nominal>
@@ -1778,9 +1774,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Military"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="stalker_gasmask_black_mung">
         <nominal>8</nominal>
@@ -1793,9 +1786,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Military"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="wonderbread_mung">
         <nominal>15</nominal>
@@ -1811,9 +1801,6 @@
         <usage name="Town"/>
         <usage name="Village"/>
         <usage name="Hunting"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
     </type>
     <type name="Nagant1895_mung">
         <nominal>5</nominal>
@@ -1828,6 +1815,10 @@
         <usage name="Military"/>
         <value name="Tier1"/>
         <value name="Tier2"/>
+        <value name="Tier3"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier8"/>
     </type>
     <type name="Gewehr43_mung">
         <nominal>20</nominal>
@@ -1840,8 +1831,12 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
+        <value name="Tier1"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier8"/>
     </type>
     <type name="Mag_gewehr43_10Rnd_mung">
         <nominal>20</nominal>
@@ -1854,7 +1849,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
+        <value name="Tier1"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier8"/>
     </type>
 </types>

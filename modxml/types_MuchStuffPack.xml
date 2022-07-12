@@ -39,8 +39,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="tools" />
         <tag name="shelves" />
-        <usage name="Military" />
-        <value name="Tier3" />
+        <usage name="Village" />
     </type>
     <type name="Msp_BassAxe">
         <nominal>1</nominal>
@@ -53,8 +52,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="tools" />
         <tag name="shelves" />
-        <usage name="Military" />
-        <value name="Tier3" />
+        <usage name="Village" />
     </type>
     <type name="Msp_PipeAxe">
         <nominal>1</nominal>
@@ -91,7 +89,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="tools" />
         <tag name="shelves" />
-        <usage name="Military" />
+        <usage name="Village" />
     </type>
     <type name="Msp_PlainBat_Blue">
         <nominal>1</nominal>
@@ -104,7 +102,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="tools" />
         <tag name="shelves" />
-        <usage name="Military" />
+        <usage name="Village" />
     </type>
     <type name="Msp_PlainBat_Black">
         <nominal>1</nominal>
@@ -117,7 +115,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="tools" />
         <tag name="shelves" />
-        <usage name="Military" />
+        <usage name="Village" />
     </type>
     <type name="Msp_BaseballBat">
         <nominal>30</nominal>
@@ -1552,8 +1550,6 @@
         <category name="containers" />
         <usage name="Town" />
         <usage name="Village" />
-        <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Msp_DuffleBag_Black">
         <nominal>10</nominal>
@@ -1567,8 +1563,6 @@
         <category name="containers" />
         <usage name="Town" />
         <usage name="Village" />
-        <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Msp_DuffleBag_Blue">
         <nominal>10</nominal>
@@ -1582,8 +1576,6 @@
         <category name="containers" />
         <usage name="Town" />
         <usage name="Village" />
-        <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Msp_DuffleBag_Red">
         <nominal>10</nominal>
@@ -1597,8 +1589,6 @@
         <category name="containers" />
         <usage name="Town" />
         <usage name="Village" />
-        <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Msp_WaistPack_Tan">
         <nominal>5</nominal>
@@ -1611,8 +1601,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Military" />
-        <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Msp_WaistPack_Black">
         <nominal>5</nominal>
@@ -1625,8 +1613,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Military" />
-        <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Msp_WaistPack_Green">
         <nominal>5</nominal>
@@ -1639,8 +1625,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Military" />
-        <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Msp_WaistPack_Brown">
         <nominal>5</nominal>
@@ -1653,8 +1637,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Military" />
-        <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Msp_WaistPack_UrbanFlektarn">
         <nominal>5</nominal>
@@ -1667,8 +1649,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Military" />
-        <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Msp_WaistPack_Blue">
         <nominal>5</nominal>
@@ -1681,8 +1661,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Military" />
-        <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="Msp_BaseballCap_Beige">
         <nominal>10</nominal>
