@@ -27,7 +27,7 @@
     "LegendaryItemRequirement": 4000,
     "MythicItemRequirement": 5000,
     "ExoticItemRequirement": 10000,
-    "ShowHardlineHUD": 1,
+    "ShowHardlineHUD": 0,
     "UseItemRarity": 0,
     "UseHumanity": 1,
     "ItemRarity": {
